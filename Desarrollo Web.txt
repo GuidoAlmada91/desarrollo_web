@@ -1,0 +1,12 @@
+ARPAnet Origen de internet
+1969 nacimiento de internet
+XEROX invento internet? Mouse, interfaz grafica?
+IMP Interface Message Processor, hoy conocido como Routers.
+
+1- Sketch Maqueta de lo que se quiere lograr
+2- Wireframe (mas que nada se encargan los UX o diseñadores.) WHIMSICAL pagina para crear wireframes. Balsamic otra opcion.
+3- Mockup ( una caldad mayor. Ya los links tienen sus nombres, el logo es el real. El video tiene al menos una imagen.)
+4- Prototipo funcional - FIGMA otra pagina para ver (prototipo funcional)
+5- Diseño Final
+
+Encycolorpedia Paleta de colores html.
