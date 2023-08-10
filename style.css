@@ -10,8 +10,7 @@ elemento{
 */
 
 p {
-    color: black; /*Color de letra*/
-    font-size: 20px; /*Tamaño*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h1 {
@@ -36,4 +35,17 @@ section p {
     color: black;
     font-size: 14px;
     font-style: italic;
+}
+
+/* unidades de medidas absolutas, no cambia independientemente de la pantalla*/
+
+/* unidades de medidas relativas */
+
+img {
+    width: 100%;
+
+}
+
+a {
+    font-size: 2rem; /*el rem es relativo al tamaño del elemento root, son 16px que vienen por default en html*/
 }
