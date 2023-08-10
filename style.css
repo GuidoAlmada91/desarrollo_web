@@ -1,0 +1,39 @@
+/*
+Comentarios con css
+
+elemento{
+    propiedad: valor;
+}
+
+
+
+*/
+
+p {
+    color: black; /*Color de letra*/
+    font-size: 20px; /*Tamaño*/
+}
+
+h1 {
+    background-color: bisque; /*Color de fondo*/
+}
+
+section p {
+    color: chocolate;
+}
+
+#letra {
+    color: brown;
+    background-color: bisque;
+}
+
+#letra1 {
+    color: brown;
+    background-color: bisque;
+}
+
+.paragraph_one{ /*el punto indica una clase*/
+    color: black;
+    font-size: 14px;
+    font-style: italic;
+}
