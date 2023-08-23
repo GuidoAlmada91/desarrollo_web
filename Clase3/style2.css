@@ -1,0 +1,43 @@
+div{
+
+    background-color: beige;
+    width: 400px;
+    height: 100px;
+/* PADDING o relleno, es para mover el contenido dentro de la caja */ 
+    padding-top: 20px;
+    padding-right: 40px;
+    padding-bottom: 10px;
+    padding-left: 100px;
+    
+    
+
+    /* El mismo para los 4 lados */
+    /* padding: 70px;
+    /* Para mismo relleno arriba y abajo e izq y derecha, interpreta primer valor de alto y ancho */
+    /* padding: 200px, 150px; */
+    /* los 4 ladtos padding y las 4 medidas */
+
+    /* BORDER Tamaño estilo y color los exige como valores*/
+    /* border: 5px inset cornflowerblue; */
+
+    /* MARGIN margenes, podemos separar la caja completa */ 
+    /* margin-top: 35px;
+    margin-left: 50px; */
+
+    /* pone el elemento en linea pero respeta los anchos, altos y box model de los elementos internos */
+    /* display: block; */
+    /* Display none oculta la caja */
+
+    /* POSITION DEJA FIJO ALGO MIENTRAS SCROLLEAS LA PAGINA, COMO EL LOGO DE WSP ETC, SE HABILITAN LOS 4 LADOS */
+    /* movimos la caja entera  */
+    
+    /* position: relative;
+    top: 80px;
+    left: 200px; */
+
+    /* POSITION ABSOLUT ES LA DISTANCIA A LOS LADOS DE LA PANTALLA */
+
+    position: fixed;
+    top: 30px;
+    /* position stickies, cuando llega al cuadro que queremos, se empieza a quedar fijo */
+}
